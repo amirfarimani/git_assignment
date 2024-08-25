@@ -1,1 +1,1 @@
-# Git Assignment - <amirfarimani>
+# Git Assignment - amirfarimani
